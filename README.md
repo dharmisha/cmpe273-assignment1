@@ -3,7 +3,9 @@ This code can display the contents of any existing file from github repository i
 clone this github repository
 
 $git clone https://github.com/dharmisha/cmpe273-assignment1.git
+
 $cd cmpe273-assignment1
+
 $docker build -t assignment1-flask-app:latest .
 
 start the server in docker using the following command
