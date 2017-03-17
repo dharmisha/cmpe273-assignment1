@@ -10,7 +10,7 @@ $docker build -t assignment1-flask-app:latest .
 
 start the server in docker using the following command
 
-$docker run -d -p 5000:5000 assignment1-flask-app https://github.com/sithu/assignment1-config-example
+$docker run -d -p 5000:5000 assignment1-flask-app https://github.com/dharmisha/assignment1-config-example
 
 The github url provided above can be replaced by any user's github repo whose files need to be read
 If no url is mentioned above, it will display existing files from the default url which is:
